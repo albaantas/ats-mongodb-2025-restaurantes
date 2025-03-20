@@ -1,19 +1,22 @@
    ## Información Estudiantes
 
-   - **Nombre completo Integrantes**: 
-   - **Grupo de prácticas**: 
-   - **Correos electrónicos**:
-   - **NIUs**
+   - **Nombre completo Integrantes**: Alba Antas Hernadez , Sergi Muñoz Màrquez
+   - **Grupo de prácticas**: 15
+   - **Correos electrónicos**: 1603423@uab.cat 1633307@uab.cat
+   - **NIUs** 1603423 1633307
 
    ## Resumen de la Entrega
 
-   Breve descripción de tu enfoque y las decisiones técnicas más importantes.
+
+   El contexto que se plantea es el de una persona que quiere ir a alguno de los
+   restaurantes, por lo tanto, las posibles consultas de interés serian el tipo de
+   comida, valoraciones y resultados que tienen los restaurantes en las inspecciones
 
    ## Lista de Verificación
 
-   - [ ] He diseñado un esquema adecuado para las colecciones
-   - [ ] He implementado todas las consultas requeridas
-   - [ ] He optimizado el rendimiento con índices
-   - [ ] He documentado todas mis decisiones técnicas
-   - [ ] He incluido capturas de pantalla de los resultados
-   - [ ] He creado la memoria técnica en formato PDF
+   - [x ] He diseñado un esquema adecuado para las colecciones
+   - [ x] He implementado todas las consultas requeridas
+   - [x ] He optimizado el rendimiento con índices
+   - [ x] He documentado todas mis decisiones técnicas
+   - [x ] He incluido capturas de pantalla de los resultados
+   - [ x] He creado la memoria técnica en formato PDF
